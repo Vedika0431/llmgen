@@ -8,6 +8,7 @@ GEMINI_API_KEY="..."
 STUDENT_SECRET="..." 
 GITHUB_TOKEN="..."
 GITHUB_USERNAME="..."
+```bash
 
 **Run locally:**
 ```bash
