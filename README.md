@@ -1,3 +1,8 @@
-deployed link: https://vedika0431-llmgen.hf.space/
-locally run: uvicorn main:app --reload
-for tasks add /ready at the end of the urls
+# LLMGen
+
+**API URL:** [https://vedika0431-llmgen.hf.space/ready](https://vedika0431-llmgen.hf.space/ready)
+
+
+**Run locally:**
+```bash
+uvicorn main:app --reload
